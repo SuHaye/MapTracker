@@ -1,7 +1,7 @@
 <template>
   <div class="bg-gray-100 pt-5">
 
-    <div class="form flex flex-col contanier bg-blue-100 py-10 mx-5 md:mx-10 lg:mx-20 xl:mx-40">
+    <div class="form flex flex-col contanier bg-blue-100 py-5 mx-5 md:mx-10 lg:mx-20 xl:mx-40">
 
       <div class="locationForm flex flex-col lg:flex-row mx-auto bg-white shadow-md mb-5 px-10 py-5">
 

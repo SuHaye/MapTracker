@@ -76,7 +76,7 @@
       ref="xyz" 
       :center="center" 
       :zoom="11" 
-      style="height: 740px;"
+      style="height: 700px;"
       >
       <gmap-marker
         :key="index"

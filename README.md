@@ -1,4 +1,4 @@
-# testmap
+# MapTracker: an application for tracking two markers on the google maps api.
 
 ## Project setup
 ```
